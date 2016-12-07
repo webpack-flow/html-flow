@@ -1,6 +1,6 @@
 # html-flow
 
-[![NPM version](https://img.shields.io/npm/v/html-flow.svg?style=flat-square)](https://npmjs.com/package/html-flow) [![NPM downloads](https://img.shields.io/npm/dm/html-flow.svg?style=flat-square)](https://npmjs.com/package/html-flow) [![Build Status](https://img.shields.io/circleci/project/egoist/html-flow/master.svg?style=flat-square)](https://circleci.com/gh/egoist/html-flow) [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat-square)](https://github.com/egoist/donate)
+[![NPM version](https://img.shields.io/npm/v/html-flow.svg?style=flat-square)](https://npmjs.com/package/html-flow) [![NPM downloads](https://img.shields.io/npm/dm/html-flow.svg?style=flat-square)](https://npmjs.com/package/html-flow) [![Build Status](https://img.shields.io/circleci/project/webpack-flow/html-flow/master.svg?style=flat-square)](https://circleci.com/gh/webpack-flow/html-flow) [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat-square)](https://github.com/egoist/donate)
 
 ## Install
 
@@ -32,6 +32,6 @@ The same options as in [html-webpack-plugin](https://github.com/ampedandwired/ht
 ## Author
 
 **html-flow** © [EGOIST](https://github.com/egoist), Released under the [MIT](https://egoist.mit-license.org/) License.<br>
-Authored and maintained by EGOIST with help from contributors ([list](https://github.com/egoist/html-flow/contributors)).
+Authored and maintained by EGOIST with help from contributors ([list](https://github.com/webpack-flow/html-flow/contributors)).
 
 > [egoistian.com](https://egoistian.com) · GitHub [@egoist](https://github.com/egoist) · Twitter [@rem_rin_rin](https://twitter.com/rem_rin_rin)

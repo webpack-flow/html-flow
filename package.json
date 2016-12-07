@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "flow for webpack to generate html",
   "license": "MIT",
-  "repository": "egoist/html-flow",
+  "repository": "webpack-flow/html-flow",
   "author": {
     "name": "EGOIST",
     "email": "0x142857@gmail.com",
