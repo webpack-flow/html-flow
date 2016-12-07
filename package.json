@@ -1,0 +1,37 @@
+{
+  "name": "html-flow",
+  "version": "0.0.0",
+  "description": "flow for webpack to generate html",
+  "license": "MIT",
+  "repository": "egoist/html-flow",
+  "author": {
+    "name": "EGOIST",
+    "email": "0x142857@gmail.com",
+    "url": "github.com/egoist"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "eslint *.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "html"
+  ],
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-rem": "latest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "eslintConfig": {
+    "extends": "rem/esnext"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^2.24.1"
+  }
+}
