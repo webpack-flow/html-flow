@@ -1,6 +1,6 @@
 {
   "name": "html-flow",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "flow for webpack to generate html",
   "license": "MIT",
   "repository": "egoist/html-flow",
